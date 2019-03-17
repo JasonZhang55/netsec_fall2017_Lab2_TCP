@@ -1,8 +1,3 @@
-'''
-Created on 2017年10月4日
-
-@author: wangweizhou
-'''
 import playground
 from playground.network.common import StackingProtocolFactory
 from .TranCliProto import *

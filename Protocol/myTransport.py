@@ -1,8 +1,3 @@
-'''
-Created on 2017年10月5日
-
-@author: wangweizhou
-'''
 from playground.network.common import StackingTransport
 from .HandShakePacket import PEEPPacket
 import random
